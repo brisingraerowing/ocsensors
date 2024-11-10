@@ -1,5 +1,5 @@
 tile.ocsensors.sensor.name=Sensor
-tile.ocsensors.sensor.tooltip=Used to read information like energy, inventory contents etc from remote blocks.
+tile.ocsensors.sensor.tooltip=Used to read information like energy, inventory contents etc from remote blocks and entities.
 
 commands.ocsensors.usage=/ocsensors [subcommand, leave empty for list of commands]
 commands.ocsensors.available=Available sub-commands:

@@ -50,7 +50,7 @@ public class EntityLivingIntegration extends AbstractIntegration {
             potionEffects.add(potionData);
         }
 
-        if(potionEffects.size() > 0) {
+        if(!potionEffects.isEmpty()) {
             data.add("effect", potionEffects);
         }
     }
